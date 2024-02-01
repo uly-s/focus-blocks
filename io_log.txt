@@ -1,0 +1,212 @@
+2024-01-31 19:15:14,582: Mouse moved to (1382, 2001)
+2024-01-31 19:15:14,686: Mouse moved to (1385, 1989)
+2024-01-31 19:15:14,790: Mouse moved to (1385, 1945)
+2024-01-31 19:15:14,896: Mouse moved to (1394, 1867)
+2024-01-31 19:15:14,999: Mouse moved to (1394, 1717)
+2024-01-31 19:15:15,105: Mouse moved to (1372, 1578)
+2024-01-31 19:15:15,210: Mouse moved to (1360, 1499)
+2024-01-31 19:15:15,314: Mouse moved to (1342, 1438)
+2024-01-31 19:15:15,418: Mouse moved to (1188, 1393)
+2024-01-31 19:15:15,524: Mouse moved to (932, 1392)
+2024-01-31 19:15:15,628: Mouse moved to (866, 1435)
+2024-01-31 19:15:15,734: Mouse moved to (826, 1547)
+2024-01-31 19:15:15,838: Mouse moved to (884, 1618)
+2024-01-31 19:15:15,942: Mouse moved to (1103, 1635)
+2024-01-31 19:15:16,048: Mouse moved to (1203, 1546)
+2024-01-31 19:15:16,152: Mouse moved to (1285, 1430)
+2024-01-31 19:15:16,216: Mouse Pressed at (1323, 1418) with Button.left
+2024-01-31 19:15:16,313: Mouse Released at (1324, 1418) with Button.left
+2024-01-31 19:15:16,441: Mouse moved to (1324, 1418)
+2024-01-31 19:15:16,568: Mouse Pressed at (1377, 1450) with Button.left
+2024-01-31 19:15:16,655: Mouse Released at (1377, 1450) with Button.left
+2024-01-31 19:15:16,804: Mouse moved to (1377, 1451)
+2024-01-31 19:15:16,910: Mouse moved to (1383, 1561)
+2024-01-31 19:15:17,026: Mouse Pressed at (1382, 1567) with Button.left
+2024-01-31 19:15:17,122: Mouse Released at (1382, 1567) with Button.left
+2024-01-31 19:15:17,312: Mouse moved to (1382, 1567)
+2024-01-31 19:15:17,418: Mouse moved to (1373, 1551)
+2024-01-31 19:15:17,522: Mouse moved to (1333, 1491)
+2024-01-31 19:15:17,586: Mouse Pressed at (1327, 1479) with Button.left
+2024-01-31 19:15:17,674: Mouse Released at (1327, 1479) with Button.left
+2024-01-31 19:15:17,708: Mouse moved to (1326, 1479)
+2024-01-31 19:15:17,820: Mouse moved to (1316, 1467)
+2024-01-31 19:15:18,015: Mouse Pressed at (1309, 1455) with Button.left
+2024-01-31 19:15:18,086: Mouse Released at (1309, 1455) with Button.left
+2024-01-31 19:15:18,182: Mouse moved to (1309, 1454)
+2024-01-31 19:15:18,506: Mouse Pressed at (1306, 1445) with Button.left
+2024-01-31 19:15:18,569: Mouse Released at (1306, 1445) with Button.left
+2024-01-31 19:15:19,150: Mouse moved to (1305, 1445)
+2024-01-31 19:15:19,254: Mouse moved to (1295, 1439)
+2024-01-31 19:15:19,358: Mouse moved to (1176, 1373)
+2024-01-31 19:15:19,464: Mouse moved to (846, 1188)
+2024-01-31 19:15:19,632: Mouse moved to (820, 1160)
+2024-01-31 19:15:19,737: Mouse moved to (920, 1136)
+2024-01-31 19:15:19,946: Mouse moved to (921, 1136)
+2024-01-31 19:15:20,080: Mouse Pressed at (915, 1107) with Button.left
+2024-01-31 19:15:20,167: Mouse Released at (915, 1107) with Button.left
+2024-01-31 19:15:20,306: Mouse moved to (915, 1108)
+2024-01-31 19:15:20,409: Mouse moved to (948, 1194)
+2024-01-31 19:15:20,514: Mouse moved to (982, 1256)
+2024-01-31 19:15:25,212: Scrolled down at (988, 1261)
+2024-01-31 19:15:25,284: Scrolled down at (988, 1261)
+2024-01-31 19:15:25,346: Scrolled down at (988, 1261)
+2024-01-31 19:15:25,405: Scrolled down at (988, 1261)
+2024-01-31 19:15:25,510: Mouse moved to (989, 1264)
+2024-01-31 19:15:25,518: Scrolled down at (991, 1274)
+2024-01-31 19:15:25,710: Scrolled down at (1007, 1343)
+2024-01-31 19:15:25,852: Mouse moved to (1007, 1344)
+2024-01-31 19:15:26,010: Mouse Pressed at (1008, 1367) with Button.left
+2024-01-31 19:15:26,066: Mouse moved to (1009, 1367)
+2024-01-31 19:15:26,114: Mouse Released at (1009, 1367) with Button.left
+2024-01-31 19:15:26,391: Mouse moved to (1009, 1367)
+2024-01-31 19:15:26,495: Mouse moved to (928, 1501)
+2024-01-31 19:15:26,602: Mouse moved to (715, 1534)
+2024-01-31 19:15:26,705: Mouse moved to (345, 1461)
+2024-01-31 19:15:26,892: Mouse moved to (314, 1451)
+2024-01-31 19:15:26,996: Mouse moved to (367, 1431)
+2024-01-31 19:15:27,099: Mouse moved to (418, 1420)
+2024-01-31 19:15:27,205: Mouse moved to (445, 1409)
+2024-01-31 19:15:27,310: Mouse moved to (523, 1407)
+2024-01-31 19:15:27,416: Mouse moved to (694, 1526)
+2024-01-31 19:15:27,521: Mouse moved to (1145, 1981)
+2024-01-31 19:15:27,623: Mouse moved to (1153, 1970)
+2024-01-31 19:15:27,737: Mouse moved to (1194, 1963)
+2024-01-31 19:15:27,841: Mouse moved to (1318, 2103)
+2024-01-31 19:15:27,946: Mouse moved to (1372, 2077)
+2024-01-31 19:15:28,059: Mouse moved to (1380, 2076)
+2024-01-31 19:15:28,148: Mouse Pressed at (1428, 2051) with Button.left
+2024-01-31 19:15:28,236: Mouse Released at (1428, 2051) with Button.left
+2024-01-31 19:15:28,350: Mouse moved to (1428, 2050)
+2024-01-31 19:15:46,872: Mouse moved to (1454, 2041)
+2024-01-31 19:15:46,983: Mouse moved to (1455, 2011)
+2024-01-31 19:15:47,170: Mouse moved to (1455, 2007)
+2024-01-31 19:15:47,627: Mouse moved to (1455, 2007)
+2024-01-31 19:15:47,733: Mouse moved to (1455, 1989)
+2024-01-31 19:15:47,838: Mouse moved to (1453, 1955)
+2024-01-31 19:15:47,941: Mouse moved to (1435, 1878)
+2024-01-31 19:15:48,045: Mouse moved to (1404, 1797)
+2024-01-31 19:15:48,151: Mouse moved to (1369, 1727)
+2024-01-31 19:15:48,255: Mouse moved to (1341, 1678)
+2024-01-31 19:15:48,362: Mouse moved to (1310, 1598)
+2024-01-31 19:15:48,465: Mouse moved to (1294, 1532)
+2024-01-31 19:15:48,545: Scrolled down at (1293, 1529)
+2024-01-31 19:15:48,577: Scrolled down at (1293, 1529)
+2024-01-31 19:15:48,595: Scrolled down at (1293, 1529)
+2024-01-31 19:15:48,617: Scrolled down at (1293, 1529)
+2024-01-31 19:15:48,643: Scrolled down at (1293, 1529)
+2024-01-31 19:15:48,667: Scrolled down at (1293, 1529)
+2024-01-31 19:15:48,699: Scrolled down at (1293, 1529)
+2024-01-31 19:15:48,731: Scrolled down at (1293, 1529)
+2024-01-31 19:15:48,966: Mouse moved to (1293, 1528)
+2024-01-31 19:15:49,069: Mouse moved to (1291, 1511)
+2024-01-31 19:15:49,125: Scrolled down at (1291, 1510)
+2024-01-31 19:15:49,158: Scrolled down at (1291, 1510)
+2024-01-31 19:15:49,175: Scrolled down at (1291, 1510)
+2024-01-31 19:15:49,183: Mouse moved to (1290, 1510)
+2024-01-31 19:15:49,191: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,208: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,215: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,232: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,247: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,271: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,352: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,716: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,738: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,755: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,771: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,787: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,803: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,827: Scrolled down at (1290, 1510)
+2024-01-31 19:15:49,852: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,208: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,239: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,263: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,271: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,287: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,303: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,311: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,327: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,351: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,383: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,724: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,737: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,753: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,764: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,771: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,780: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,787: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,803: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,812: Scrolled down at (1290, 1510)
+2024-01-31 19:15:53,827: Scrolled down at (1290, 1510)
+2024-01-31 19:15:56,329: Mouse moved to (1291, 1511)
+2024-01-31 19:15:56,433: Mouse moved to (1424, 1775)
+2024-01-31 19:15:56,536: Mouse moved to (1511, 2033)
+2024-01-31 19:15:56,642: Mouse moved to (1517, 2087)
+2024-01-31 19:15:56,771: Mouse moved to (1518, 2091)
+2024-01-31 19:15:56,986: Mouse Pressed at (1513, 2057) with Button.left
+2024-01-31 19:15:57,089: Mouse Released at (1513, 2057) with Button.left
+2024-01-31 19:16:22,887: alphanumeric key a pressed
+2024-01-31 19:16:22,976: alphanumeric key s pressed
+2024-01-31 19:16:23,038: alphanumeric key d pressed
+2024-01-31 19:16:23,119: alphanumeric key f pressed
+2024-01-31 19:16:23,129: 'a' released
+2024-01-31 19:16:23,132: 's' released
+2024-01-31 19:16:23,176: 'd' released
+2024-01-31 19:16:23,296: alphanumeric key a pressed
+2024-01-31 19:16:23,303: 'f' released
+2024-01-31 19:16:23,308: alphanumeric key s pressed
+2024-01-31 19:16:23,387: alphanumeric key d pressed
+2024-01-31 19:16:23,479: alphanumeric key f pressed
+2024-01-31 19:16:23,509: 's' released
+2024-01-31 19:16:23,522: 'a' released
+2024-01-31 19:16:23,547: 'd' released
+2024-01-31 19:16:23,653: 'f' released
+2024-01-31 19:16:23,667: alphanumeric key a pressed
+2024-01-31 19:16:23,679: alphanumeric key s pressed
+2024-01-31 19:16:23,732: alphanumeric key d pressed
+2024-01-31 19:16:23,839: alphanumeric key f pressed
+2024-01-31 19:16:23,857: 'a' released
+2024-01-31 19:16:23,858: 's' released
+2024-01-31 19:16:23,893: 'd' released
+2024-01-31 19:16:23,956: 'f' released
+2024-01-31 19:16:23,999: alphanumeric key a pressed
+2024-01-31 19:16:24,012: alphanumeric key s pressed
+2024-01-31 19:16:24,056: alphanumeric key d pressed
+2024-01-31 19:16:24,149: alphanumeric key f pressed
+2024-01-31 19:16:24,169: 'a' released
+2024-01-31 19:16:24,170: 's' released
+2024-01-31 19:16:24,198: 'd' released
+2024-01-31 19:16:24,259: 'f' released
+2024-01-31 19:16:24,298: alphanumeric key a pressed
+2024-01-31 19:16:24,317: alphanumeric key s pressed
+2024-01-31 19:16:24,356: alphanumeric key d pressed
+2024-01-31 19:16:24,436: alphanumeric key f pressed
+2024-01-31 19:16:24,449: 's' released
+2024-01-31 19:16:24,452: 'a' released
+2024-01-31 19:16:24,479: 'd' released
+2024-01-31 19:16:24,543: 'f' released
+2024-01-31 19:16:24,568: alphanumeric key a pressed
+2024-01-31 19:16:24,590: alphanumeric key s pressed
+2024-01-31 19:16:24,630: alphanumeric key d pressed
+2024-01-31 19:16:24,706: alphanumeric key f pressed
+2024-01-31 19:16:24,718: 's' released
+2024-01-31 19:16:24,727: 'a' released
+2024-01-31 19:16:24,751: 'd' released
+2024-01-31 19:16:24,821: 'f' released
+2024-01-31 19:16:24,853: alphanumeric key a pressed
+2024-01-31 19:16:24,863: 'a' released
+2024-01-31 19:16:24,864: alphanumeric key s pressed
+2024-01-31 19:16:24,908: alphanumeric key d pressed
+2024-01-31 19:16:24,993: alphanumeric key f pressed
+2024-01-31 19:16:25,011: 's' released
+2024-01-31 19:16:25,037: 'd' released
+2024-01-31 19:16:25,109: 'f' released
+2024-01-31 19:16:25,117: alphanumeric key a pressed
+2024-01-31 19:16:25,129: alphanumeric key s pressed
+2024-01-31 19:16:25,162: alphanumeric key d pressed
+2024-01-31 19:16:25,230: alphanumeric key f pressed
+2024-01-31 19:16:25,258: 'a' released
+2024-01-31 19:16:25,262: 's' released
+2024-01-31 19:16:25,309: 'd' released
+2024-01-31 19:16:25,341: 'f' released
+2024-01-31 19:16:25,725: alphanumeric key c pressed

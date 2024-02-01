@@ -1,0 +1,20 @@
+{
+  "name": "focus-blocks",
+  "version": "1.0.0",
+  "description": "The basic idea here is an app that implements a neurofeedback / mindfulness system using only basic I/O computer data as opposed to biometrics, webcam input etc. To track how focused a user is on a task and allow them to hone in on it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uly-s/focus-blocks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uly-s/focus-blocks/issues"
+  },
+  "homepage": "https://github.com/uly-s/focus-blocks#readme"
+}
